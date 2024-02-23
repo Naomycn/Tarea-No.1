@@ -11,7 +11,7 @@ ListasSimples
 
 <p>La funcionalidad del programa se encuentra en la clase MAIN donde se presenta un menú interactivo que permite al usuario realizar diferentes operaciones en la lista enlazanda, como insertar elementos al inicio o al final, insertar una posición específica, eliminar elementos, buscar elementos y mostrar la lista completa.</p>
 
-<h3>Implementación de una lista enlazada simple en Java</h3>
+<h2>Implementación de una lista enlazada simple en Java</h2>
 <P>Nodo: Esta clase representa un nodo individual en la lista enlazada. Contiene dos atributos:
 -Dato: este atributo almacena el valor o dato que se desea guardar en el Nodo.
 -Siguieente: este atributo es una referencia al siguiente Nodo en la lista enlazada.</P>
