@@ -44,4 +44,4 @@ Dependiendo la opción que seleccionemos, se llamaran los métodos correspondien
 
 <P><string>ImprimirLista():</string>Imprime los elementos de la lista y en orden, recorre la lista e imprime el valor ingresado de cada nodo.</P>
 
-![Menú en consola!](["C:\Users\cunav\OneDrive\Escritorio\ListasSimples.jpg"](https://drive.google.com/file/d/1qXv2NtMVHMCGSvjPZV21sGT7UaX6tJZ_/view?usp=sharing)https://drive.google.com/file/d/1qXv2NtMVHMCGSvjPZV21sGT7UaX6tJZ_/view?usp=sharing)
+[![Listas-Simples.jpg](https://i.postimg.cc/BvHK39zr/Listas-Simples.jpg)](https://postimg.cc/nsVzK5p2)
