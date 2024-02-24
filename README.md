@@ -20,7 +20,19 @@ ListasSimples
 <h2>Esta clase es el programa principal de nuestro proyecto ListaSimplementeEnlazada:</h2>
 <p>Se realizaron importaciones en las clases necesarias, en este caso SCANNER para la entrada del usuario.</p>
 <p><em><strong>Clase Main:</strong></em></p>
-<p>En el metodo Main se crea un objeto SCANNER para poder leer la entrada del usuario y un objeto ListaSimplementeEnlazada.
+<p>En importaciones el metodo Main se crea un objeto SCANNER para poder leer la entrada del usuario y un objeto ListaSimplementeEnlazada.
 Se presenta un menú de opciones al usuario para que elija que operaciones realizar en la lista enlazada.
 Dependiendo la opción que seleccionemos, se llamaran los métodos correspondientes de la clase ListaSimplementeEnlazada pra realizar la operación deseada. El programa continúa ejecutandose en un bucle infinito hasta que el usuario pulse la opcion de salir.</p>
 
+<p><em><strong>Switch-Case:</strong></em> Cada opción del menú se maneja utilizando un Switch-case, donde se ejecuta el código correspondiante según la opcion que decee elegir. Las opciones incluyen insertar elementos al inicio, al final o en una posición específica, eliminar elementos, buscar elementos y mostrar la lista.</p>
+
+<p><em><strong>Cerrar Scanner y Salir:</strong></em>Cuando el usuario selecciona la opcion para salir, que en este caso es "9" se cierra el objeto Scanner y el programa se cierra con System.exit. Este programa proporciona una interfaz de usuario para interactuar con la lista. </p>
+
+<h2><em><string>ListaSimplementeEnlazada</string></em></h2>
+
+<p>Para inicializar la lista enlazada como vacía establecimos un constructor en la cabeza como NULL</p>
+<p>Int Dato: Este meetodo crea un nuevo nodo con el dato, establece su siguiente nodo como la cabeza actual y luego actualiza esta para que no apuente de nuevo al nodo.</p>
+<p>Int Dato: este metodo verifica si lalsita esta vacía, si no esta vacía recorre la lista hasta el último nodo.
+</p>
+<p>InsertarEnPosicion: verifica si la posición es valida y maneja los casos especiales de inserción al inicio de la lista.</p>
+<p>Eliminar Primero(): Elimina el primer nodo de la lista moviendose al siguiente nodo.</p>
