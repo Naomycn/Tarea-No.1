@@ -30,9 +30,16 @@ Dependiendo la opción que seleccionemos, se llamaran los métodos correspondien
 
 <h2><em><string>ListaSimplementeEnlazada</string></em></h2>
 
-<p>Para inicializar la lista enlazada como vacía establecimos un constructor en la cabeza como NULL</p>
-<p>Int Dato: Este meetodo crea un nuevo nodo con el dato, establece su siguiente nodo como la cabeza actual y luego actualiza esta para que no apuente de nuevo al nodo.</p>
-<p>Int Dato: este metodo verifica si lalsita esta vacía, si no esta vacía recorre la lista hasta el último nodo.
+<p>Para inicializar la lista enlazada como vacía establecimos un constructor en la cabeza como NULL.</p>
+<p><em><string>Int Dato:</string></em> Este meetodo crea un nuevo nodo con el dato, establece su siguiente nodo como la cabeza actual y luego actualiza esta para que no apuente de nuevo al nodo.</p>
+<p><em><string>Int Dato:</string></em> este metodo verifica si lalsita esta vacía, si no esta vacía recorre la lista hasta el último nodo.
 </p>
-<p>InsertarEnPosicion: verifica si la posición es valida y maneja los casos especiales de inserción al inicio de la lista.</p>
-<p>Eliminar Primero(): Elimina el primer nodo de la lista moviendose al siguiente nodo.</p>
+<p><em><string>InsertarEnPosicion:</string></em> verifica si la posición es valida y maneja los casos especiales de inserción al inicio de la lista.</p>
+<p><em><string>Eliminar Primero():</string></em> Elimina el primer nodo de la lista moviendose al siguiente nodo.</p>
+
+<p><em><string>EliminarUltimo():</string></em> Si lalista tiene solo un elemento, lo eliminara ajustando la cabeza a null. De lo contrario, avanzaria hasta el penúltimo nodo y elimina la referencia del ultimo.</p>
+
+<p><em><string>EliminarEnPosicion(int):</string></em>Elimina el nodo en una posicion específica de la lista. Verificando si la posición es válida y si maneja la eliminación del primer nodo. Luego esta avanza hasta la posición deseada y elimina el nodo.</p>
+<p><string>Buscar(int dato):</string> Este busca un elemento en la lista y recorre la lista y compara el valor en cada nodo con el dato buscado, retorna TRUE si se encuentra el dato, de lo contrario se retornara FALSE.</p>
+
+<P><string>ImprimirLista():</string>Imprime los elementos de la lista y en orden, recorre la lista e imprime el valor ingresado de cada nodo.</P>
