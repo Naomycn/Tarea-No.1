@@ -28,9 +28,11 @@ Dependiendo la opción que seleccionemos, se llamaran los métodos correspondien
 
 <p><em><strong>Switch-Case:</strong></em> Cada opción del menú se maneja utilizando un Switch-case, donde se ejecuta el código correspondiante según la opcion que decee elegir. Las opciones incluyen insertar elementos al inicio, al final o en una posición específica, eliminar elementos, buscar elementos y mostrar la lista.</p>
 
+[![MAIN.jpg](https://i.postimg.cc/0jP5LrM4/MAIN.jpg)](https://postimg.cc/k6YdSJyN)
+
 <p><em><strong>Cerrar Scanner y Salir:</strong></em>Cuando el usuario selecciona la opcion para salir, que en este caso es "9" se cierra el objeto Scanner y el programa se cierra con System.exit. Este programa proporciona una interfaz de usuario para interactuar con la lista. </p>
 
-[![MAIN.jpg](https://i.postimg.cc/0jP5LrM4/MAIN.jpg)](https://postimg.cc/k6YdSJyN)
+[![MAIN-1.jpg](https://i.postimg.cc/05nZF3hW/MAIN-1.jpg)](https://postimg.cc/CdZjfvhk)
 
 <h2><em><string>ListaSimplementeEnlazada</string></em></h2>
 
