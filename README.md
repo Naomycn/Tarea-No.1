@@ -30,6 +30,8 @@ Dependiendo la opción que seleccionemos, se llamaran los métodos correspondien
 
 <p><em><strong>Cerrar Scanner y Salir:</strong></em>Cuando el usuario selecciona la opcion para salir, que en este caso es "9" se cierra el objeto Scanner y el programa se cierra con System.exit. Este programa proporciona una interfaz de usuario para interactuar con la lista. </p>
 
+[![MAIN.jpg](https://i.postimg.cc/0jP5LrM4/MAIN.jpg)](https://postimg.cc/k6YdSJyN)
+
 <h2><em><string>ListaSimplementeEnlazada</string></em></h2>
 
 <p>Para inicializar la lista enlazada como vacía establecimos un constructor en la cabeza como NULL.</p>
