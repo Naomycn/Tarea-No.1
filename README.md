@@ -12,10 +12,12 @@ ListasSimples
 <p>La funcionalidad del programa se encuentra en la clase MAIN donde se presenta un menú interactivo que permite al usuario realizar diferentes operaciones en la lista enlazanda, como insertar elementos al inicio o al final, insertar una posición específica, eliminar elementos, buscar elementos y mostrar la lista completa.</p>
 
 <h2>Implementación de una lista enlazada simple en Java</h2>
-<p> <em><strong>Nodo:</strong></em> Esta clase representa un nodo individual en la lista enlazada. Contiene dos atributos:
--Dato: este atributo almacena el valor o dato que se desea guardar en el Nodo.
--Siguieente: este atributo es una referencia al siguiente Nodo en la lista enlazada.</P>
+<p> <em><strong>Nodo:</strong></em> Esta clase representa un nodo individual en la lista enlazada. Contiene dos atributos:</p>
+<p></p>Dato: este atributo almacena el valor o dato que se desea guardar en el Nodo.</p>
+<p></p>Siguieente: este atributo es una referencia al siguiente Nodo en la lista enlazada.</p>
 <p>La clase tiene un constructor que acepta un paramentro DATO para inicializar el valor del NODO y establece el atributo SIGUIENTE en NULL, esto idica que inicialmente, el nodo no está conectado a ningun otro nodo de la lista.</p>
+
+[![nodo.jpg](https://i.postimg.cc/MTc1vP9w/nodo.jpg)](https://postimg.cc/DJTSNgVp)
 
 <h2>Esta clase es el programa principal de nuestro proyecto ListaSimplementeEnlazada:</h2>
 <p>Se realizaron importaciones en las clases necesarias, en este caso SCANNER para la entrada del usuario.</p>
