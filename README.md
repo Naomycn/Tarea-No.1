@@ -34,6 +34,8 @@ Dependiendo la opción que seleccionemos, se llamaran los métodos correspondien
 <p><em><string>Int Dato:</string></em> Este meetodo crea un nuevo nodo con el dato, establece su siguiente nodo como la cabeza actual y luego actualiza esta para que no apuente de nuevo al nodo.</p>
 <p><em><string>Int Dato:</string></em> este metodo verifica si lalsita esta vacía, si no esta vacía recorre la lista hasta el último nodo.
 </p>
+[![Captura-de-pantalla-2024-02-23-212533.png](https://i.postimg.cc/G35GvQvS/Captura-de-pantalla-2024-02-23-212533.png)](https://postimg.cc/hhVXBVy9)
+
 <p><em><string>InsertarEnPosicion:</string></em> verifica si la posición es valida y maneja los casos especiales de inserción al inicio de la lista.</p>
 <p><em><string>Eliminar Primero():</string></em> Elimina el primer nodo de la lista moviendose al siguiente nodo.</p>
 
