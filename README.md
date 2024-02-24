@@ -43,3 +43,5 @@ Dependiendo la opción que seleccionemos, se llamaran los métodos correspondien
 <p><string>Buscar(int dato):</string> Este busca un elemento en la lista y recorre la lista y compara el valor en cada nodo con el dato buscado, retorna TRUE si se encuentra el dato, de lo contrario se retornara FALSE.</p>
 
 <P><string>ImprimirLista():</string>Imprime los elementos de la lista y en orden, recorre la lista e imprime el valor ingresado de cada nodo.</P>
+
+![Menú en consola!]("C:\Users\cunav\OneDrive\Escritorio\ListasSimples.jpg")
